@@ -9,4 +9,3 @@ class Hangman:
     print(random.choice(lista)) # skriv ut lista i slumpmässig ordning
 
 
-

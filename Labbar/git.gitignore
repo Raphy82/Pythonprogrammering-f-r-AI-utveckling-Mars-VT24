@@ -1,0 +1,8 @@
+# Ignorera virtuellt miljö
+venv/
+
+# Ignorera kompilerade filer
+*.pyc
+
+# Ignorera loggfiler
+*.log
